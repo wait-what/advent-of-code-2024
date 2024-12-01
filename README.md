@@ -1,3 +1,3 @@
 # Advent of code 2024
 
-meow
+im trying to make the code awful on purpose
